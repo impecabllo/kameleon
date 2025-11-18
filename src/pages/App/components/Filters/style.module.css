@@ -1,0 +1,13 @@
+.filters {
+  display: flex;
+  column-gap: 16px;
+  align-items: center;
+}
+
+.variations {
+  max-width: 460px;
+}
+
+.day {
+  width: 160px;
+}

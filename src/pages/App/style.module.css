@@ -1,0 +1,12 @@
+.wrapper {
+  margin-block: 40px;
+  width: 100%;
+  max-width: 1300px;
+  margin-inline: auto;
+}
+
+.content {
+  padding-inline: 1rem;
+  display: grid;
+  row-gap: 24px;
+}
